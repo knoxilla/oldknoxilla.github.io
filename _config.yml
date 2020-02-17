@@ -1,0 +1,8 @@
+title: Knoxilla.github.io
+description: Repo for makin' pages!
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
